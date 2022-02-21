@@ -1,0 +1,6 @@
+
+def star_removal(x):
+    x=str()
+    x.replace("★","")
+    return x
+
